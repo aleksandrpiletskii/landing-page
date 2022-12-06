@@ -30,6 +30,10 @@ ul {
 	list-style-type: none;
 }
 
+footer {
+	margin: 0 auto;
+}
+
 header {
 	width: 1440px;
 	height: 711px;
@@ -182,25 +186,30 @@ article {
 .footer__top {
     text-align: center;
     background-color: #817070;
+	width: 1440px;
+	height: 337px;
+	margin: 0 auto;
 }
 
 .footer__down {
     text-align: center;
     border-color: #FFFFFF;
 	padding: 20px;
+	width: 1440px;
+	height: 72px;
+	margin: 0 auto;
 }
 
 .footer__name {
 	color: #FFFFFF;
 	padding-bottom: 10px;
-	padding-top: 20px;
+	padding-top: 100px;
 	font-weight: normal;
 }
 
 .footer__button {
 	color: #817070;
-	margin-bottom: 30px;
-	margin-top: 30px;
+	margin-top: 15px;
 	font-weight: bold;
 	width: 129px;
 	height: 55px;
@@ -248,10 +257,4 @@ input::placeholder {
 .blog__p {
 	font-size: 18px;
 	font-weight: lighter;
-}
-
-footer {
-	width: 1440px;
-	height: 711px;
-	margin: 0 auto;
 }
