@@ -1,1 +1,1 @@
-# Landing-page of coffee house prom Stepik course
+# landing-page of coffee house prom Stepik course
